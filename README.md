@@ -3,7 +3,7 @@
 SOC Project Module 
 ##   Labs Summary
 
-I have completed all interactive Wireshark SOC labs. Below is the summary of my scores and performance.
+I have completed Wireshark SOC labs. Below is the summary of my scores and performance.
 
 | Lab # | Topic | Score | Status |
 | :---: | :--- | :---: | :---: |
