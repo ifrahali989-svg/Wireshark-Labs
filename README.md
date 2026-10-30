@@ -1,12 +1,7 @@
-# Wireshark SOC Extra Labs Documentation
+# Wireshark SOC Labs Documentation
 
-**Student Name:** Ifrah Ali Baig
-**Module:** Week 1 SOC Project Module (Extra)
-**Provider:** Network Walks
-
----
-
-##  Extra Labs Summary
+SOC Project Module 
+##   Labs Summary
 
 I have completed all interactive Wireshark SOC labs. Below is the summary of my scores and performance.
 
